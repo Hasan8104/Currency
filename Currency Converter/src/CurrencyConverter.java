@@ -9,7 +9,7 @@ import org.json.JSONObject;
 public class CurrencyConverter {
 
     // Replace with your API URL and Key
-    private static final String API_URL = "https://v6.exchangerate-api.com/v6/01bd40dc0cc458ae1549e165/latest/";
+    private static final String API_URL = "https://v6.exchangerate-api.com/v6/01bd40dc0cc458ae1549e165/latest/USD";
 
     public static void main(String[] args) {
         // Map to store currency codes
